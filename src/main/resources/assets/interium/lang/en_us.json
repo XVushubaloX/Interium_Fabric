@@ -1,0 +1,16 @@
+{
+  "item.interium.bioiron": "Bioiron",
+  "item.interium.biosteel": "Biosteel",
+  "item.interium.chlorophyll": "Chlorophyll",
+  "item.interium.contaminated_chlorophyll": "Contaminated chlorophyll",
+  "item.interium.mitochondria": "Mitochondria",
+  "item.interium.mortar_and_pestle": "Mortar and pestle",
+  "item.interium.pure_chlorophyll": "Pure chlorophyll",
+  "item.interium.spore": "Spore",
+  "block.interium.spore_block": "Spore block",
+  "block.interium.pure_chlorophyll_block": "Pure chlorophyll block",
+  "block.interium.shredder": "Shredder",
+  "screen.interium.shredder": "Shredder",
+  "block.interium.pure_chlorophyll_block": "Pure chlorophyll block",
+  "itemGroup.tutorialmod.interium": "Interium"
+}

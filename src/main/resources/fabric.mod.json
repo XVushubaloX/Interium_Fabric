@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "interium",
+	"version": "${version}",
+	"name": "Interium",
+	"description": "English or spanish?",
+	"authors": [
+		"Textures: LORRANDO",
+		"Code: LORRANDO, FlyInMyEye"
+	],
+	"contact": {
+		"homepage": "--ne zabud link do sajta--",
+		"sources": "--ne zabud link do GitHub--"
+	},
+	"license": "GNU 3.0",
+	"icon": "assets/interium/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"flyinmyeye.interium.Interium"
+		],
+		"fabric-datagen": [
+			"flyinmyeye.interium.InteriumDataGenerator"
+		],
+		"client": [
+			"flyinmyeye.interium.InteriumClient"
+		]
+	},
+	"mixins": [
+		"interium.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

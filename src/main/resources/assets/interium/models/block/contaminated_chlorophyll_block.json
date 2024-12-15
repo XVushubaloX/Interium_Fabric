@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "interium:blocks/contaminated_chlorophyll_block"
+  }
+}
