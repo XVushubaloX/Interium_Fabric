@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
+  "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "interium:items/mortar_and_pestle"
+    "layer0": "interium:item/mortar_and_pestle"
   }
 }

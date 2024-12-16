@@ -6,13 +6,13 @@
 	"description": "English or spanish?",
 	"authors": [
 		"Textures: LORRANDO",
-		"Code: LORRANDO, FlyInMyEye"
+		"Code: FlyInMyEye"
 	],
 	"contact": {
 		"homepage": "--ne zabud link do sajta--",
 		"sources": "--ne zabud link do GitHub--"
 	},
-	"license": "GNU 3.0",
+	"license": "MIT",
 	"icon": "assets/interium/icon.png",
 	"environment": "*",
 	"entrypoints": {
