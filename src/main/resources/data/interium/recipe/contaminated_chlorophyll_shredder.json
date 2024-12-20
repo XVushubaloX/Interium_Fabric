@@ -1,0 +1,11 @@
+{
+  "type": "interium:shredder",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "id": "interium:contaminated_chlorophyll"
+  }
+}

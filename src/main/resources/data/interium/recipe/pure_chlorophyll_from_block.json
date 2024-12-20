@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "interium:pure_chlorophyll_block"
+    }
+  ],
+  "result": {
+    "id": "interium:pure_chlorophyll",
+    "count": 9
+  }
+}

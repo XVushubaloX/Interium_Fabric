@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#u#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:leaves"
+    },
+    "u": {
+      "item": "interium:mortar_and_pestle"
+    }
+  },
+  "result": {
+    "id": "interium:contaminated_chlorophyll"
+  }
+}
