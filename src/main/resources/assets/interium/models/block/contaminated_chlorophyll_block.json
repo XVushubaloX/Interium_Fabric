@@ -1,6 +1,6 @@
 {
-  "parent": "block/cube_all",
+  "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "interium:blocks/contaminated_chlorophyll_block"
+    "all": "interium:block/contaminated_chlorophyll_block"
   }
 }

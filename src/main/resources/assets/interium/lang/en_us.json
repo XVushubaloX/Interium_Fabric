@@ -9,8 +9,8 @@
   "item.interium.spore": "Spore",
   "block.interium.spore_block": "Spore block",
   "block.interium.pure_chlorophyll_block": "Pure chlorophyll block",
+  "block.interium.chlorophyll_block": "Chlorophyll block",
   "block.interium.shredder": "Shredder",
-  "screen.interium.shredder": "Shredder",
-  "block.interium.pure_chlorophyll_block": "Pure chlorophyll block",
-  "itemGroup.tutorialmod.interium": "Interium"
+  "block.interium.contaminated_chlorophyll_block": "Contaminated chlorophyll block",
+  "itemgroup.interium.interium": "Interium"
 }

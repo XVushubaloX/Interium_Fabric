@@ -1,5 +1,7 @@
 package flyinmyeye.interium;
 
+import flyinmyeye.interium.block.ModBlocks;
+import flyinmyeye.interium.item.ModItemGroups;
 import flyinmyeye.interium.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +15,8 @@ public class Interium implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
+		ModItemGroups.registerItemGroups();
 		LOGGER.info("Hello Fabric world!");
 	}
 }

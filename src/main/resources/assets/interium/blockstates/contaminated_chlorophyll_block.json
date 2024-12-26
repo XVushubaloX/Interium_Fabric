@@ -1,5 +1,7 @@
 {
   "variants": {
-    "": { "model": "interium:block/contaminated_chlorophyll_block" }
+    "": {
+      "model": "interium:block/contaminated_chlorophyll_block"
+    }
   }
 }

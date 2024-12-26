@@ -1,5 +1,7 @@
 {
   "variants": {
-    "": { "model": "interium:block/pure_chlorophyll_block" }
+    "": {
+      "model": "interium:block/pure_chlorophyll_block"
+    }
   }
 }

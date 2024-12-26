@@ -26,14 +26,14 @@ public class ModItems {
         Interium.LOGGER.info("Registering Mod Items for " + Interium.MOD_ID);
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
-            entries.add(BIOIRON);
-            entries.add(CHLOROPHYLL);
-            entries.add(PURE_CHLOROPHYLL);
-            entries.add(CONTAMINATED_CHLOROPHYLL);
-            entries.add(BIOSTEEL);
-            entries.add(MITOCHONDRIA);
-            entries.add(MORTAR_AND_PISTLE);
-            entries.add(SPORE);
+            entries.add(ModItems.BIOIRON);
+            entries.add(ModItems.CHLOROPHYLL);
+            entries.add(ModItems.PURE_CHLOROPHYLL);
+            entries.add(ModItems.CONTAMINATED_CHLOROPHYLL);
+            entries.add(ModItems.BIOSTEEL);
+            entries.add(ModItems.MITOCHONDRIA);
+            entries.add(ModItems.MORTAR_AND_PISTLE);
+            entries.add(ModItems.SPORE);
         });
     }
 }

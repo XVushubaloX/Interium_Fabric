@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "particle": "interium:blocks/shredder/shredder_front_off",
-    "down": "interium:blocks/shredder/shredder_bottom_off",
-    "up": "interium:blocks/shredder/shredder_top",
-    "north": "interium:blocks/shredder/shredder_back",
-    "south": "interium:blocks/shredder/shredder_front_off",
-    "west": "interium:blocks/shredder/shredder_side",
-    "east": "interium:blocks/shredder/shredder_side"
+    "particle": "interium:block/shredder/shredder_front_off",
+    "down": "interium:block/shredder/shredder_bottom_off",
+    "up": "interium:block/shredder/shredder_top",
+    "north": "interium:block/shredder/shredder_back",
+    "south": "interium:block/shredder/shredder_front_off",
+    "west": "interium:block/shredder/shredder_side",
+    "east": "interium:block/shredder/shredder_side"
   }
 }

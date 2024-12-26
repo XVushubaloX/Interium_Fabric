@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "interium:blocks/spore_block"
+    "all": "interium:block/spore_block"
   }
 }

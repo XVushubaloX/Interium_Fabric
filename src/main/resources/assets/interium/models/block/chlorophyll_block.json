@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "interium:block/pure_chlorophyll_block"
+    "all": "interium:block/chlorophyll_block"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "interium:contaminated_chlorophyll_block"
+    }
+  ],
+  "result": {
+    "id": "interium:contaminated_chlorophyll",
+    "count": 9
+  }
+}
